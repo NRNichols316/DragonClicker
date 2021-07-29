@@ -24,8 +24,19 @@ html {
     height:200px;
     width:200px;
 }
- .sizeE{
-    height:400px;
-    width:400px;
-
+ .airDragon{
+  display: inline;
+  box-sizing: border-box;
+  width: 300px;
+  Height: 300px;  
+  filter: hue-rotate(90deg) brightness(2);
+  margin: 20px auto;
+  font-size: 7rem;
+ }
+ .earthDragon {
+  display: inline;
+  box-sizing: border-box;
+  width: 300px;
+  margin: 20px auto;
+  font-size: 7rem;
  }
